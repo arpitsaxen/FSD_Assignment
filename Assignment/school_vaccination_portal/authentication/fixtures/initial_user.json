@@ -1,0 +1,21 @@
+[
+  {
+    "model": "authentication.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$abcdefghijklmnopqrstuvwxyz123456=",
+      "last_login": null,
+      "is_superuser": true,
+      "username": "admin",
+      "email": "admin@example.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-01-01T00:00:00Z",
+      "is_coordinator": true,
+      "first_name": "School",
+      "last_name": "Coordinator",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

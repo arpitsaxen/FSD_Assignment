@@ -1,0 +1,42 @@
+[
+  {
+    "model": "vaccination_drives.vaccine",
+    "pk": 1,
+    "fields": {
+      "name": "MMR",
+      "description": "Measles, Mumps, and Rubella vaccine"
+    }
+  },
+  {
+    "model": "vaccination_drives.vaccine",
+    "pk": 2,
+    "fields": {
+      "name": "Tdap",
+      "description": "Tetanus, Diphtheria, and Pertussis vaccine"
+    }
+  },
+  {
+    "model": "vaccination_drives.vaccine",
+    "pk": 3,
+    "fields": {
+      "name": "HPV",
+      "description": "Human Papillomavirus vaccine"
+    }
+  },
+  {
+    "model": "vaccination_drives.vaccine",
+    "pk": 4,
+    "fields": {
+      "name": "Influenza",
+      "description": "Seasonal Flu vaccine"
+    }
+  },
+  {
+    "model": "vaccination_drives.vaccine",
+    "pk": 5,
+    "fields": {
+      "name": "Hepatitis B",
+      "description": "Hepatitis B vaccine"
+    }
+  }
+]
